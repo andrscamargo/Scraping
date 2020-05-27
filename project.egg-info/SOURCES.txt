@@ -1,0 +1,13 @@
+setup.py
+apartamentos/__init__.py
+apartamentos/items.py
+apartamentos/middlewares.py
+apartamentos/pipelines.py
+apartamentos/settings.py
+apartamentos/spiders/__init__.py
+apartamentos/spiders/metroCuadrado.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
